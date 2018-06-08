@@ -1,0 +1,16 @@
+@font-face {
+    font-family: helveticaFontLight;
+    src: url("HelveticaNeueCyr-Light.otf");
+}
+
+@font-face {
+    font-family: helveticaFontBold;
+    src: url("HelveticaNeueCyr-Bold.otf");
+}
+body{
+    font-size: 0.56cm;
+}
+.emojione {
+    height: 20px;
+    margin: 0 5px;
+}

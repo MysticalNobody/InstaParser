@@ -1,0 +1,99 @@
+
+.post_v {
+    height: 31.5cm;
+}
+
+.head_v {
+    margin-bottom: 5px;
+    position: absolute;
+    width: 13cm;
+    height: 2cm;
+    margin-left: 18.5cm;
+}
+
+.head_v img {
+    border-radius: 100px;
+}
+
+.circle {
+    position: absolute;
+    z-index: -1;
+    width: 1.83cm;
+    height: 1.83cm;
+}
+
+.profile_v {
+    width: 1.58cm;
+    height: 1.58cm;
+    margin-left: 18.653cm;
+    border-radius: 100px;
+    margin-top: 5px;
+    position: absolute;
+}
+.head_v .text_v {
+    display: inline-block;
+    position: relative;
+    height: 0.92cm;
+    top: 0.14cm;
+    vertical-align: top;
+    margin-left: 75px;
+    font-size: 0.66cm;
+}
+
+.head_v .text_v .title_v {
+    display: block;
+    vertical-align: top;
+    font-family: helveticaFontBold;
+}
+
+.head_v .text_v .subtitle_v {
+    position: absolute;
+    top: 0.8cm;
+    font-size: 0.56cm;
+    width: 15cm;
+    color: #585d61;
+}
+
+.center_v {
+    height: 20cm;
+}
+
+.center_v img {
+    width: auto;
+    max-width: 18cm;
+    height: auto;
+    max-height: 20cm;
+}
+
+.bottom_v .text_v {
+    font-family: helveticaFontBold;
+}
+
+.text_caption_v {
+    color: #585d61;
+    width: 10cm;
+    position: absolute;
+    margin-top: 2.5cm;
+    margin-left: 18.5cm;
+}
+
+.likes_v {
+    height: 1.8cm;
+    margin-top: 0.3cm;
+    position: relative;
+}
+
+.likes_v .text_v {
+    top: 1.2cm;
+    position: absolute;
+    left: 0;
+}
+
+.likes_v img {
+    height: 0.7cm;
+    margin-top: 0.3cm;
+}
+
+.caption_v .date_v {
+    color: #585d61;
+}

@@ -1,0 +1,93 @@
+
+.post_h {
+    height: 32cm;
+}
+
+.head_h {
+    margin-bottom: 5px;
+    height: 2.3cm;
+    width: 13cm;
+}
+
+.head_h img {
+    border-radius: 100px;
+}
+
+.circle {
+    position: absolute;
+    z-index: -1;
+    width: 1.83cm;
+    height: 1.83cm;
+}
+
+.profile_h {
+    width: 1.58cm;
+    height: 1.58cm;
+    margin: 5px 0 0 5px;
+}
+
+.head_h .text_h {
+    display: inline-block;
+    position: relative;
+    height: 0.92cm;
+    top: 0.14cm;
+    vertical-align: top;
+    margin-left: 15px;
+    font-size: 0.66cm;
+}
+
+.head_h .text_h .title_h {
+    display: block;
+    vertical-align: top;
+    font-family: helveticaFontBold;
+}
+
+.head_h .text_h .subtitle_h {
+    position: absolute;
+    top: 0.8cm;
+    font-size: 0.56cm;
+    width: 15cm;
+    color: #585d61;
+}
+
+.center_h {
+    height: 20cm;
+}
+
+.center_h img {
+    width: auto;
+    height: 19cm;
+}
+
+.bottom_h .text_h {
+    font-family: helveticaFontBold;
+}
+
+.bottom_h .text_caption_h {
+    margin-top: 0.5cm;
+    color: #585d61;
+}
+
+.likes_h {
+    height: 1.8cm;
+    position: relative;
+}
+
+.likes_h .text_h {
+    top: 1.2cm;
+    position: absolute;
+    left: 0;
+}
+
+.likes_h img {
+    height: 0.7cm;
+    margin-top: 0.3cm;
+}
+
+.caption_h .date_h {
+    color: #585d61;
+}
+
+.bottom_h {
+    height: 1cm;
+}

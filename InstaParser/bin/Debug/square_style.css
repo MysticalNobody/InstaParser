@@ -1,0 +1,97 @@
+
+.post_s {
+    height: 32cm;
+}
+
+.head_s {
+    margin-bottom: 5px;
+    position: absolute;
+    height: 2cm;
+    margin-left: 23.5cm;
+    width: 13cm;
+}
+
+.head_s img {
+    border-radius: 100px;
+}
+
+.circle {
+    position: absolute;
+    z-index: -1;
+    width: 1.83cm;
+    height: 1.83cm;
+}
+
+.profile_s {
+    width: 1.58cm;
+    height: 1.58cm;
+    margin-left: 23.653cm;
+    border-radius: 100px;
+    margin-top: 5px;
+    position: absolute;
+}
+.head_s .text_s {
+    display: inline-block;
+    position: relative;
+    height: 0.92cm;
+    top: 0.14cm;
+    vertical-align: top;
+    margin-left: 75px;
+    font-size: 0.66cm;
+}
+
+.head_s .text_s .title_s {
+    display: block;
+    vertical-align: top;
+    font-family: helveticaFontBold;
+}
+
+.head_s .text_s .subtitle_s {
+    position: absolute;
+    top: 0.8cm;
+    font-size: 0.56cm;
+    width: 15cm;
+    color: #585d61;
+}
+
+.center_s {
+    height: 23cm;
+}
+
+.center_s img {
+    width: 23cm;
+    height: 23cm;
+}
+
+.bottom_s .text_s {
+    font-family: helveticaFontBold;
+}
+
+.text_caption_s {
+    color: #585d61;
+    width: 8cm;
+    position: absolute;
+    margin-top: 2.5cm;
+    margin-left: 23.5cm;
+}
+
+.likes_s {
+    height: 1.8cm;
+    margin-top: 0.3cm;
+    position: relative;
+}
+
+.likes_s .text_s {
+    top: 1.2cm;
+    position: absolute;
+    left: 0;
+}
+
+.likes_s img {
+    height: 0.7cm;
+    margin-top: 0.3cm;
+}
+
+.caption_s .date_s {
+    color: #585d61;
+}
